@@ -1,16 +1,12 @@
 # Site settings
 title: Picturedz
 email: "shravanredz@gmail.com"
-description: "My Photo Journal"
+description: "My Photo blog"
 url: "https://shravanredz.github.io"
 baseurl: "/picturedz"
 facebook_username: "shravanredz"
-twitter_username: ""
 instagram_username: "shravanredz"
 github_username:  "shravanredz"
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
 share: true
 
 # Owner/author information
@@ -18,7 +14,7 @@ owner:
   name:   Shravan Reddy
   avatar: avatar.png
   favicon: favicon.ico
-  info: Shravan's photography blog
+  info: Shravan's photo blog
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
